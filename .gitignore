@@ -1,0 +1,4 @@
+#ignora los archivos de salida creados por el programa
+salida/*.txt
+#ignora los modulos de node que pueden volver a instalarse con npm install
+node_modules/
